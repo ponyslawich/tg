@@ -4,4 +4,4 @@ git add --all - добавляем файл и его содержимое
 git commit -m 'первыйБАМ' - создаём коммит
 git branch -M main - создаём ветку main и переключаемся на неё 
 git remote add origin https://github.com/ponyslawich/tg.git - указываем путь к репозиторию
-git push -u origin main - пушим"(pit на мираже)"
+git push -u origin main - пушим"(connector na anubise)"
